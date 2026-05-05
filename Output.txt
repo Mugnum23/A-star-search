@@ -1,0 +1,3 @@
+Optimal Path: ['Disaneng', 'Mahikeng', 'Bakerville', 'Lichtenburg', 'Coligny']
+Visited Order: ['Disaneng', 'Mahikeng', 'Bakerville', 'Mmabatho', 'Slurry', 'Madibogo', 'Lichtenburg', 'Coligny']
+Total Cost: 110
